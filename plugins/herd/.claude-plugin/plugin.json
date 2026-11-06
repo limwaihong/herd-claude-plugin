@@ -7,5 +7,15 @@
   "homepage": "https://useherd.app",
   "privacyPolicyUrl": "https://useherd.app/privacy",
   "repository": "https://github.com/limwaihong/herd-claude-plugin",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "social-listening",
+    "brand-monitoring",
+    "mentions",
+    "sentiment-analysis",
+    "customer-feedback",
+    "small-business",
+    "threads",
+    "reddit"
+  ]
 }
