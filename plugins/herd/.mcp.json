@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "herd": { "type": "http", "url": "https://useherd.app/mcp" }
+  }
+}

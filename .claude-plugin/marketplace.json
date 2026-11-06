@@ -1,0 +1,12 @@
+{
+  "name": "useherd",
+  "description": "Herd plugins",
+  "owner": { "name": "Herd" },
+  "plugins": [
+    {
+      "name": "herd",
+      "source": "./plugins/herd",
+      "description": "Social listening for small businesses"
+    }
+  ]
+}

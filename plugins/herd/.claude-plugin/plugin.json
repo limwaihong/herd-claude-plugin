@@ -1,0 +1,11 @@
+{
+  "name": "herd",
+  "displayName": "Herd",
+  "version": "0.1.0",
+  "description": "Find posts about your business on Threads and Reddit, with sentiment labels.",
+  "author": { "name": "Herd", "url": "https://useherd.app" },
+  "homepage": "https://useherd.app",
+  "privacyPolicyUrl": "https://useherd.app/privacy",
+  "repository": "https://github.com/limwaihong/herd-claude-plugin",
+  "license": "MIT"
+}
