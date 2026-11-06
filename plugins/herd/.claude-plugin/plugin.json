@@ -6,6 +6,9 @@
   "author": { "name": "Herd", "url": "https://useherd.app" },
   "homepage": "https://useherd.app",
   "privacyPolicyUrl": "https://useherd.app/privacy",
+  "termsOfServiceUrl": "https://useherd.app/terms",
+  "supportUrl": "https://useherd.app/support",
+  "documentationUrl": "https://github.com/limwaihong/herd-claude-plugin/blob/main/plugins/herd/README.md",
   "repository": "https://github.com/limwaihong/herd-claude-plugin",
   "license": "MIT",
   "keywords": [
