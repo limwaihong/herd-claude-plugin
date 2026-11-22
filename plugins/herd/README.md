@@ -1,8 +1,9 @@
 # Herd for Claude
 
-[Herd](https://useherd.app) finds public posts on Threads and Reddit that name your business,
-and labels each post positive, neutral or negative. This plugin connects Claude to your Herd
-account, so you can ask Claude about your mentions, your weekly report and your keywords.
+[Herd](https://useherd.app) finds public posts on Threads, Reddit, Instagram, X and YouTube that
+name your business, and labels each post positive, neutral or negative. This plugin connects
+Claude to your Herd account, so you can ask Claude about your mentions, your weekly report and
+your keywords.
 
 You need a Herd account. The Free Plan works. Finish the setup at https://useherd.app/app first.
 
@@ -30,8 +31,8 @@ go to Herd → Settings → Connected apps.
 
 ## Tools
 
-`list_keywords`, `add_keyword`, `remove_keyword`, `list_mentions`, `get_report`,
-`translate_post` and `fix_sentiment`.
+`list_keywords`, `add_keyword`, `remove_keyword`, `list_mentions`, `get_report` and
+`translate_post`.
 
 ## What the plugin sends, and where
 

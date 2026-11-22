@@ -1,8 +1,8 @@
 {
   "name": "herd",
   "displayName": "Herd",
-  "version": "0.1.0",
-  "description": "Find posts about your business on Threads and Reddit, with sentiment labels.",
+  "version": "0.1.1",
+  "description": "Find posts about your business on Threads, Reddit, Instagram, X and YouTube, with sentiment labels.",
   "author": { "name": "Herd", "url": "https://useherd.app" },
   "homepage": "https://useherd.app",
   "privacyPolicyUrl": "https://useherd.app/privacy",
@@ -19,6 +19,9 @@
     "customer-feedback",
     "small-business",
     "threads",
-    "reddit"
+    "reddit",
+    "instagram",
+    "x",
+    "youtube"
   ]
 }

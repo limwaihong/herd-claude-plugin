@@ -1,6 +1,6 @@
 ---
 name: brief
-description: Summarise what people said this week about the user's business on Threads and Reddit, from Herd. Use when the user asks for a weekly brief, a summary of mentions, or how people feel about their business.
+description: Summarise what people said this week about the user's business on Threads, Reddit, Instagram, X and YouTube, from Herd. Use when the user asks for a weekly brief, a summary of mentions, or how people feel about their business.
 ---
 
 # Weekly brief
